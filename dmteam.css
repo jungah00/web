@@ -1,0 +1,32 @@
+#xyz {
+    background-color: yellowgreen;
+    text-align: left;
+    }
+
+#abc {
+    background-color: aquamarine;
+    text-align: left;
+    }
+
+#d {
+        background-color: cornflowerblue;
+        text-align: left;
+        }
+
+        
+#e {
+    background-color: rosybrown;
+    text-align: left;
+    }
+
+ul {
+    list-stlye:none;
+}
+
+li{ float: left;
+    margin-right: 50px;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+
